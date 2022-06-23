@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Automation_Training\\Java_seleniumgrid\\selenium-server-4.2.2.jar",
+        "d:\\java_jar_lib\\testng-6.0.1-sources.jar",
+        "d:\\java_jar_lib\\org.testng.jar",
+        "PageObjectModel.jar"
+    ],
+    "maven.view": "flat",
+    "java.dependency.packagePresentation": "hierarchical"
+}
+    
