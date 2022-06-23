@@ -56,7 +56,7 @@ public class BaseSetUp {
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
         return driver;
     }
-
+    
     @Parameters({ "browserType", "appURL"})
     @BeforeClass
     public void initializeTestBaseSetup(String browserType, String appURL) {

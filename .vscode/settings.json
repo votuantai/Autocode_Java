@@ -5,8 +5,9 @@
         "lib/**/*.jar",
         "d:\\Automation_Training\\Java_seleniumgrid\\selenium-server-4.2.2.jar",
         "d:\\java_jar_lib\\testng-6.0.1-sources.jar",
-        "d:\\java_jar_lib\\org.testng.jar",
-        "PageObjectModel.jar"
+        "PageObjectModel.jar",
+        "d:\\java_jar_lib\\testng-7.6.0.jar",
+        "d:\\java_jar_lib\\bsh-2.0.jar"
     ],
     "maven.view": "flat",
     "java.dependency.packagePresentation": "hierarchical"
